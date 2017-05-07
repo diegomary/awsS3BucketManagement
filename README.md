@@ -1,6 +1,6 @@
-# AWS SDK for Node.js Sample Project
+# EXAMPLE OF UPLOAD FILES TO AWS BUCKET
 
-A simple Node.js application illustrating usage of the AWS SDK for Node.js.
+A node application that allows files in a folder to be uploaded directly to an AWS S3 bucket immediately after creation
 
 ## Requirements
 
